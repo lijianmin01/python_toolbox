@@ -46,7 +46,7 @@ def Pic2Cartton(path,picture_name=None):
     return filename
 
 if __name__ == '__main__':
-    Pic2Cartton(r"E:\github\python_toolbox\Picture_turn_into_cartoon\lzl.jpg")
+    Pic2Cartton(r"E:\github\python_toolbox\Picture_turn_into_cartoon\timg.jpg")
 
 
 
